@@ -15,10 +15,12 @@ bigdata_asssg1
   1.Volume- the size of data stored
   2.Velocity-the speed at which the data is acquired
   3.Variety- we can include any kind of unstructured,structure and semi structured data.
+  
 3. Horizontal Scaling and Vertical Scaling
    1.Horizontal Scaling: In this the data is divided into small scale and distributed over a wide range,so that the processing 
    will speed up.
    2.Vertical Scaling: In this the data storing capacity of the storage is increased,so that it can store a huge data.
+   
 4.Need and Working of Hadoop:
   Need:   In big data we need to process unstructured data which is not possible in RDBMS so to process such data we need a framework
   that accepts huge amount of data and process it to give the required output but also requires original data remains unchanged for 
