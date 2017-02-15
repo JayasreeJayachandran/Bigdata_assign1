@@ -1,5 +1,4 @@
-# Bigdata_assign1
-bigdata_asssg1
+
 1.Various sources of Big Data:
    Big data is used in various field such as:
        1.Banking
